@@ -1,0 +1,8 @@
+[
+  {
+    "property": "mod.bfah.hide_refresh_button",
+    "label": "Also hide the refresh button",
+    "type": "checkbox",
+    "defaultValue": false
+  }
+]
