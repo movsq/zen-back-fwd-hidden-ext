@@ -21,6 +21,14 @@ grow), so your extension buttons stay flush right.
 The buttons reappear while you're customizing the toolbar, so you can still rearrange
 things.
 
+## Options
+
+In Settings → Mods → Back Fwd Hidden ext you'll find one toggle:
+
+| Option | Default | Effect |
+|:---|:---:|:---|
+| Also hide the reload button | off | Hides `#reload-button` using the same "not while customizing" rule |
+
 ## Install
 
 **From the Zen Mods store:** search for **Back Fwd Hidden ext** in Settings → Mods.
@@ -43,6 +51,12 @@ overwrites the registry on exit.
 
 :root:not([customizing]) #zen-sidebar-top-buttons-separator {
   flex: 1 1 auto !important;
+}
+
+@media (-moz-bool-pref: "mod.bfah.hide_reload_button") {
+  :root:not([customizing]) #reload-button {
+    display: none !important;
+  }
 }
 ```
 
