@@ -7,6 +7,8 @@
   flex: 1 1 auto !important;
 }
 
-:root:not([customizing]) #reload-button {
-  display: var(--mod-bfah-reload_button_display, flex) !important;
+@media (-moz-bool-pref: "mod.bfah.hide_reload_button") {
+  :root:not([customizing]) #reload-button {
+    display: none !important;
+  }
 }
