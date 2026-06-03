@@ -9,7 +9,7 @@
     "image": "",
     "preferences": [{"property": "mod.bfah.hide_reload_button", "label": "Also hide the reload button", "type": "checkbox", "defaultValue": false}],
     "author": "movsq",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "tags": [],
     "createdAt": "2026-06-03",
     "updatedAt": "2026-06-03",
