@@ -1,0 +1,14 @@
+{
+  "id": "54f671f4-ceaf-481a-845b-0befb1e17a88",
+  "name": "Back Fwd Hidden (ext)",
+  "description": "Hides back/forward buttons while keeping extension buttons right-aligned.",
+  "homepage": "https://github.com/movsq/zen-back-fwd-hidden-ext",
+  "style": "https://raw.githubusercontent.com/movsq/zen-back-fwd-hidden-ext/main/chrome.css",
+  "readme": "https://raw.githubusercontent.com/movsq/zen-back-fwd-hidden-ext/main/readme.md",
+  "image": "https://raw.githubusercontent.com/movsq/zen-back-fwd-hidden-ext/main/image.png",
+  "author": "movsq",
+  "version": "1.0.0",
+  "tags": [],
+  "createdAt": "2026-06-03",
+  "updatedAt": "2026-06-03"
+}

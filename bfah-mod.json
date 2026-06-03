@@ -1,0 +1,17 @@
+{
+  "54f671f4-ceaf-481a-845b-0befb1e17a88": {
+    "id": "54f671f4-ceaf-481a-845b-0befb1e17a88",
+    "name": "Back Fwd Hidden (ext)",
+    "description": "Hides back/forward buttons while keeping extension buttons right-aligned.",
+    "homepage": "https://github.com/movsq/zen-back-fwd-hidden-ext",
+    "style": "data:text/css;base64,LyogQmFjay9Gd2QgQWx3YXlzIEhpZGRlbiDigJQgZXh0ZW5zaW9ucyBzdGF5IHJpZ2h0LWFsaWduZWQKICoKICogSGlkZXMgdGhlIGJhY2sgYW5kIGZvcndhcmQgYnV0dG9ucyAodXNlZnVsIGlmIHlvdXIgbW91c2UgaGFzIHNpZGUgYnV0dG9ucyksCiAqIGJ1dCDigJQgdW5saWtlIHRoZSBvcmlnaW5hbCAiQmFjayBGd2QgQWx3YXlzIEhpZGRlbiIgbW9kIOKAlCBpdCBkb2VzIE5PVCBoaWRlCiAqICN6ZW4tc2lkZWJhci10b3AtYnV0dG9ucy1zZXBhcmF0b3IuIFRoYXQgc2VwYXJhdG9yIGlzIHRoZSBmbGV4aWJsZSBzcHJpbmcgaW4KICogdGhlIHRvb2xiYXIncyBmbGV4Ym94IHJvdyAoI3plbi1zaWRlYmFyLXRvcC1idXR0b25zLWN1c3RvbWl6YXRpb24tdGFyZ2V0KQogKiB0aGF0IHB1c2hlcyBleHRlbnNpb24gYnV0dG9ucyB0byB0aGUgcmlnaHQgZWRnZS4gS2VlcGluZyBpdCAoYW5kIGZvcmNpbmcgaXQKICogdG8gZ3JvdykgbWVhbnMgeW91ciBleHRlbnNpb25zIHN0YXkgZmx1c2ggcmlnaHQgaW5zdGVhZCBvZiBqdW1waW5nIGxlZnQuCiAqLwoKOnJvb3Q6bm90KFtjdXN0b21pemluZ10pICNiYWNrLWJ1dHRvbiwKOnJvb3Q6bm90KFtjdXN0b21pemluZ10pICNmb3J3YXJkLWJ1dHRvbiB7CiAgZGlzcGxheTogbm9uZSAhaW1wb3J0YW50Owp9CgovKiBLZWVwIHRoZSB0b3AtYnV0dG9ucyBzcHJpbmcgZ3Jvd2luZyBzbyBleHRlbnNpb25zIHN0YXkgZmx1c2ggcmlnaHQuICovCjpyb290Om5vdChbY3VzdG9taXppbmddKSAjemVuLXNpZGViYXItdG9wLWJ1dHRvbnMtc2VwYXJhdG9yIHsKICBmbGV4OiAxIDEgYXV0byAhaW1wb3J0YW50Owp9Cg==",
+    "readme": "",
+    "image": "",
+    "author": "movsq",
+    "version": "1.0.0",
+    "tags": [],
+    "createdAt": "2026-06-03",
+    "updatedAt": "2026-06-03",
+    "enabled": true
+  }
+}

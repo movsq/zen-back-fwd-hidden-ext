@@ -1,0 +1,19 @@
+/* Back/Fwd Always Hidden — extensions stay right-aligned
+ *
+ * Hides the back and forward buttons (useful if your mouse has side buttons),
+ * but — unlike the original "Back Fwd Always Hidden" mod — it does NOT hide
+ * #zen-sidebar-top-buttons-separator. That separator is the flexible spring in
+ * the toolbar's flexbox row (#zen-sidebar-top-buttons-customization-target)
+ * that pushes extension buttons to the right edge. Keeping it (and forcing it
+ * to grow) means your extensions stay flush right instead of jumping left.
+ */
+
+:root:not([customizing]) #back-button,
+:root:not([customizing]) #forward-button {
+  display: none !important;
+}
+
+/* Keep the top-buttons spring growing so extensions stay flush right. */
+:root:not([customizing]) #zen-sidebar-top-buttons-separator {
+  flex: 1 1 auto !important;
+}
