@@ -4,7 +4,9 @@ A [Zen Browser](https://zen-browser.app) mod that always hides the **back** and
 **forward** buttons — handy if your mouse already has back/forward side buttons — **while
 keeping your extension buttons right-aligned**.
 
-![screenshot](image.png)
+| Original mod | This mod |
+|:---:|:---:|
+| ![original](original.png) | ![mine](mine.png) |
 
 ## Why this exists
 
