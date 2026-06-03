@@ -23,7 +23,7 @@ things.
 
 ## Install
 
-**From the Zen Mods store:** search for **Back Fwd Hidden (ext)** in Settings → Mods.
+**From the Zen Mods store:** search for **Back Fwd Hidden ext** in Settings → Mods.
 
 **Manual import:** in Zen, go to Settings → Mods → **Import** and select
 [`bfah-mod.json`](bfah-mod.json) (the CSS is embedded, so it's fully self-contained).
@@ -40,6 +40,7 @@ overwrites the registry on exit.
 :root:not([customizing]) #forward-button {
   display: none !important;
 }
+
 :root:not([customizing]) #zen-sidebar-top-buttons-separator {
   flex: 1 1 auto !important;
 }
