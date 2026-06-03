@@ -4,7 +4,7 @@
     "name": "Back Fwd Hidden (ext)",
     "description": "Hides back/forward buttons, keeps extensions right-aligned. Optionally hides refresh too.",
     "homepage": "https://github.com/movsq/zen-back-fwd-hidden-ext",
-    "style": "data:text/css;base64,OnJvb3Q6bm90KFtjdXN0b21pemluZ10pICNiYWNrLWJ1dHRvbiwKOnJvb3Q6bm90KFtjdXN0b21pemluZ10pICNmb3J3YXJkLWJ1dHRvbiB7CiAgZGlzcGxheTogbm9uZSAhaW1wb3J0YW50Owp9Cgo6cm9vdDpub3QoW2N1c3RvbWl6aW5nXSkgI3plbi1zaWRlYmFyLXRvcC1idXR0b25zLXNlcGFyYXRvciB7CiAgZmxleDogMSAxIGF1dG8gIWltcG9ydGFudDsKfQoKQG1lZGlhICgtbW96LXByZWYoIm1vZC5iZmFoLmhpZGVfcmVmcmVzaF9idXR0b24iKSkgewogIDpyb290Om5vdChbY3VzdG9taXppbmddKSAjcmVsb2FkLWJ1dHRvbiB7CiAgICBkaXNwbGF5OiBub25lICFpbXBvcnRhbnQ7CiAgfQp9Cg==",
+    "style": "data:text/css;base64,OnJvb3Q6bm90KFtjdXN0b21pemluZ10pICNiYWNrLWJ1dHRvbiwKOnJvb3Q6bm90KFtjdXN0b21pemluZ10pICNmb3J3YXJkLWJ1dHRvbiB7CiAgZGlzcGxheTogbm9uZSAhaW1wb3J0YW50Owp9Cgo6cm9vdDpub3QoW2N1c3RvbWl6aW5nXSkgI3plbi1zaWRlYmFyLXRvcC1idXR0b25zLXNlcGFyYXRvciB7CiAgZmxleDogMSAxIGF1dG8gIWltcG9ydGFudDsKfQoKQG1lZGlhICgtbW96LWJvb2wtcHJlZjogIm1vZC5iZmFoLmhpZGVfcmVmcmVzaF9idXR0b24iKSB7CiAgOnJvb3Q6bm90KFtjdXN0b21pemluZ10pICNyZWxvYWQtYnV0dG9uIHsKICAgIGRpc3BsYXk6IG5vbmUgIWltcG9ydGFudDsKICB9Cn0K",
     "readme": "",
     "image": "",
     "preferences": [{"property": "mod.bfah.hide_refresh_button", "label": "Also hide the refresh button", "type": "checkbox", "defaultValue": false}],
