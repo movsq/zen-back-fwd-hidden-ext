@@ -1,8 +1,13 @@
 [
   {
-    "property": "mod.bfah.hide_refresh_button",
-    "label": "Also hide the refresh button",
-    "type": "checkbox",
-    "defaultValue": false
+    "property": "mod.bfah.reload_button_display",
+    "label": "Reload button",
+    "type": "dropdown",
+    "placeholder": "Show",
+    "defaultValue": "flex",
+    "options": [
+      { "label": "Show", "value": "flex" },
+      { "label": "Hide", "value": "none" }
+    ]
   }
 ]
